@@ -1,0 +1,118 @@
+.rmdb-logo {
+    width: 50px;
+    float: left;
+  }
+
+.movie-text {
+    font-family: 'Courgette', cursive;
+    margin-left: 10px;
+    font-size: 40px;
+  color: black;
+  }
+
+  .topnav2  {
+    width: 100%;
+    height: auto;
+    background: none;
+    padding: 0 15px;
+    position: fixed;
+    z-index: 1;
+    opacity: 0.93;
+    top:0;
+  }
+
+  .topnav2 .search-container {
+    float: right;
+  }
+  
+  .search-container input[type=text] {
+    padding: 6px 40px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+
+  .search-container {
+    position: relative;
+  }
+
+  .search-container .rmdb-fa-search {
+    position: absolute;
+    margin: 8px 0 0 9px;
+    padding: 9px;
+    pointer-events: none;
+  }
+
+  .left-addon .rmdb-fa-search {
+    left: 0;
+  }
+
+  .left-addon input {
+    padding-left: 30px;
+  }
+  
+  .circle-icon {
+    background: #ced6e0;
+    padding:11px;
+    border-radius: 50%;
+  } 
+  
+  .rmdb-fa-search {
+    left: 2px;
+    top: 2px;
+    color: #303952;
+  }
+
+  .search-text-input {
+    border-top: thin solid #e5e5e5;
+    border-right: thin solid #e5e5e5;
+    border-bottom: 0;
+    box-shadow: 0px 1px 1px 1px #e5e5e5;
+    float: left;
+    margin: 0.8em 0 0 0.5em;
+    outline: 0;
+    padding: 0.4em 0 0.4em 0.6em;
+    border-radius: 16px;
+  }
+  
+  ::placeholder {
+    color: #bdc3c7;
+    padding-left: 35px;
+  }
+  
+  input:focus::-webkit-input-placeholder { color:transparent; }
+  
+  @media screen and (max-width: 720px) {
+    .rmdb-searchbar-input {
+      font-size: 28px;
+      color: #fff;
+    }
+  }
+
+
+  /* Top Nav */
+
+@media screen and (max-width: 600px) {
+    .search-container {
+        padding-top: 20px;
+        width: 100%; 
+    }
+
+  .search-container .rmdb-fa-search {
+    margin: 20px 0 0 2px;
+    padding: 9px;
+    pointer-events: none;
+  }
+  
+  .topnav2 a, .topnav2 input[type=text], .topnav2 .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+  } 
+
+  .topnav2 {
+    margin-top: 7%;
+  }
+}
