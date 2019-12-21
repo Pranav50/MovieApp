@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MovieApp/static/css/main.c2bb2912.chunk.css",
+    "main.js": "/MovieApp/static/js/main.4525563e.chunk.js",
+    "main.js.map": "/MovieApp/static/js/main.4525563e.chunk.js.map",
+    "runtime~main.js": "/MovieApp/static/js/runtime~main.bc4dc0ff.js",
+    "runtime~main.js.map": "/MovieApp/static/js/runtime~main.bc4dc0ff.js.map",
+    "static/css/2.6bab58b9.chunk.css": "/MovieApp/static/css/2.6bab58b9.chunk.css",
+    "static/js/2.c13d8af6.chunk.js": "/MovieApp/static/js/2.c13d8af6.chunk.js",
+    "static/js/2.c13d8af6.chunk.js.map": "/MovieApp/static/js/2.c13d8af6.chunk.js.map",
+    "index.html": "/MovieApp/index.html",
+    "precache-manifest.cc75dbe3e51369d3aaafd784913a956d.js": "/MovieApp/precache-manifest.cc75dbe3e51369d3aaafd784913a956d.js",
+    "service-worker.js": "/MovieApp/service-worker.js",
+    "static/css/2.6bab58b9.chunk.css.map": "/MovieApp/static/css/2.6bab58b9.chunk.css.map",
+    "static/css/main.c2bb2912.chunk.css.map": "/MovieApp/static/css/main.c2bb2912.chunk.css.map",
+    "static/media/mdb.css": "/MovieApp/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/MovieApp/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
